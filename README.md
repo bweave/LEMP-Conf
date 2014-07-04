@@ -3,7 +3,9 @@ LEMP-Conf
 
 Config files and settings for a wicked fast Ubuntu + Nginx + PHP-FPM + MySQL/Percona setup.
 
-<h3>Prerequisites <small>A quick web search will help you find install instructions should you need them.</small></h3>
+### Prerequisites
+
+A quick web search will help you find install instructions should you need them.
 
 - Ubuntu box
 - Nginx
