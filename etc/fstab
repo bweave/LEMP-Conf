@@ -1,0 +1,5 @@
+# replace /dev/sdb1 with whatever is originally in this file
+/dev/sdb1   /   ext4    noatime,nodiratime,errors=remount-ro 0 1
+
+# don't forget to remount
+# mount -o remount /dev/sdb1
